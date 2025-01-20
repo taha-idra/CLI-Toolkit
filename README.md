@@ -1,7 +1,7 @@
 # CLI-Toolkit
 A collection of command-line interface (CLI) utilities written in C++. These projects aim to provide practical and efficient solutions for various tasks, emphasizing performance and ease of use.
 
-## Projects
+## Tools
 
 This collection includes the following tools:
 
